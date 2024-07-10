@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'DaysOne';
+    src: url('../fonts/DaysOne-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'PlusJakartaSans-Bold';
+    src: url('../fonts/PlusJakartaSans-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'PlusJakartaSans-Regular';
+    src: url('../fonts/PlusJakartaSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'PlusJakartaSans-Medium';
+    src: url('../fonts/PlusJakartaSans-Medium.ttf') format('truetype');
+}
+
+.hello{
+    color: red;
+    font-family: 'DaysOne';
+}
